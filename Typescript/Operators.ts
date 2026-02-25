@@ -282,6 +282,6 @@ Note: The above code without the ternary operator would look like this:
             result = "Odd";
         }
         console.log(result);
-  /*      
+  */      
 
 
